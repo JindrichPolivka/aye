@@ -22,7 +22,7 @@
                                                                                                                                                       <p  
                                           
 <img src="first-imp-viola.jpg"
-     style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">
 
 ###The plain look reflects look of the stage and auditorium as well as nature of the plays presented in it. These often use little to none in terms of scenery and costumes. The stage also host intimate musical performances and book readings besides theatrical plays.
 
