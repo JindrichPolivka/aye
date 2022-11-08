@@ -3,6 +3,8 @@
   <img src="mememe3.jpg" alt="a photo of ME" "class="center" width="500" />
 </p>
 
+<img align="right" width="100" height="100" src="mememe4">
+                                                                        
 ## Hi, Iam Jindra
 ## I am aspiring to be a graphic designer, currently in my 3rd year towards a bachelors degree, studying at the University of creative communications in Prague.
                                                                                                                                                       
