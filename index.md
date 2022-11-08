@@ -3,7 +3,7 @@
 ## Hi, Iam Jindra 
 <img align="right" width="270" height="200" src="mememe5.jpg">
                                        
-## I am aspiring to be a graphic designer, currently in my 3rd year towards a bachelors degree, studying at the University of creative communications in Prague.
+## I am aspiring to be a graphic designer, currently studying at the University of creative communications in Prague in my 3rd year towards a bachelors.
                                                                                                                                                       
 
 
