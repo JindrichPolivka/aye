@@ -24,3 +24,5 @@
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">
 
 ### Posters work with a civil portrait of the leading actor(s) elsewhere than the stage, which further alludes to the intimate nature of this space, in which the actors are within an arms reach. Besides in case of this theatre the casting is typically more of a pull for it‘s audience than a given play as for it‘s small size it brings impressive starpower.
+
+### Work on this projest was done in a team of 2 people, the opprotunity was part of our school program and took the form of a design competition
