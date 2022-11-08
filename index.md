@@ -1,4 +1,14 @@
 # Jindrich Polivka
+<p align="center">
+  <img src="first-imp-viola.jpg" alt="a dropcap letter K  on a hatched background with it‘s lines separated at their meeting point" "class="center" width="500" />
+</p>
+
+## Hi, Iam Jindra
+## I am aspiring to be a graphic designer, currently in my 3rd year towards a bachelors degree, studying at the University of creative communications in Prague.
+
+
+
+
 
 
 
@@ -7,6 +17,9 @@
 <p align="center">
   <img src="first-imp-viola.jpg" alt="a dropcap letter K  on a hatched background with it‘s lines separated at their meeting point" "class="center" width="500" />
 </p>
+
+
+
 
 <img src="k-dropcap-polivka.png"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
